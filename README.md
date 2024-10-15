@@ -13,9 +13,7 @@ This project implements a simple tokenizer for a programming language-like synta
 - C++11 or higher
 
 ### Installation
-
-1. Clone the repository:
-
+Clone the repository:
    ```bash
    git clone https://github.com/yourusername/tokenizer-project.git
 
