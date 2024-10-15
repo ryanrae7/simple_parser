@@ -1,8 +1,9 @@
 #include <iostream>
 #include <stdio.h>
+#include "rules.cpp"
 
 int main()
 {
-    rtwer
-    return 0;
+    
+    return 0; 
 }
