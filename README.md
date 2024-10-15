@@ -17,4 +17,4 @@ Clone the repository:
    ```bash
    git clone https://github.com/yourusername/tokenizer-project.git
    ```
-Change main string input to desired input
+--- Change main string input to desired input
