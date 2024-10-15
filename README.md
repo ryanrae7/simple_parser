@@ -16,5 +16,5 @@ This project implements a simple tokenizer for a programming language-like synta
 Clone the repository:
    ```bash
    git clone https://github.com/yourusername/tokenizer-project.git
-
+   ```
 Change main string input to desired input
